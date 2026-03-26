@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Schedly</string>
+    <string name="schedly_illustration_desc">An illustration showing a person organizing their schedule.</string>
+    <string name="welcome_title">Welcome to Schedly!</string>
+    <string name="welcome_description">This app helps you manage and simplify your schedule</string>
+    <string name="get_started_button">Get Started</string>
+</resources>
